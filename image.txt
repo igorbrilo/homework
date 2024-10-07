@@ -1,0 +1,5034 @@
+[
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-DAILY-LTS:16.04.202106230",
+    "version": "16.04.202106230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-DAILY-LTS:16.04.202108040",
+    "version": "16.04.202108040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-DAILY-LTS:16.04.202109280",
+    "version": "16.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201908220",
+    "version": "16.04.201908220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201909030",
+    "version": "16.04.201909030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201909110",
+    "version": "16.04.201909110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201909180",
+    "version": "16.04.201909180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201910110",
+    "version": "16.04.201910110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201910310",
+    "version": "16.04.201910310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201911130",
+    "version": "16.04.201911130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201912110",
+    "version": "16.04.201912110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.201912170",
+    "version": "16.04.201912170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202001070",
+    "version": "16.04.202001070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202001290",
+    "version": "16.04.202001290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202002040",
+    "version": "16.04.202002040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202002120",
+    "version": "16.04.202002120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202002181",
+    "version": "16.04.202002181"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202003170",
+    "version": "16.04.202003170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202004010",
+    "version": "16.04.202004010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202004070",
+    "version": "16.04.202004070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202004290",
+    "version": "16.04.202004290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202005290",
+    "version": "16.04.202005290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202006100",
+    "version": "16.04.202006100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202007080",
+    "version": "16.04.202007080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202007161",
+    "version": "16.04.202007161"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202007290",
+    "version": "16.04.202007290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202008070",
+    "version": "16.04.202008070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202009040",
+    "version": "16.04.202009040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202009080",
+    "version": "16.04.202009080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202009220",
+    "version": "16.04.202009220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202010140",
+    "version": "16.04.202010140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202011120",
+    "version": "16.04.202011120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202012010",
+    "version": "16.04.202012010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202012030",
+    "version": "16.04.202012030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202012100",
+    "version": "16.04.202012100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202101120",
+    "version": "16.04.202101120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202101190",
+    "version": "16.04.202101190"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202102020",
+    "version": "16.04.202102020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202102260",
+    "version": "16.04.202102260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202103160",
+    "version": "16.04.202103160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202103291",
+    "version": "16.04.202103291"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202104140",
+    "version": "16.04.202104140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202104160",
+    "version": "16.04.202104160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202104290",
+    "version": "16.04.202104290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202106110",
+    "version": "16.04.202106110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04-LTS",
+    "urn": "Canonical:UbuntuServer:16.04-LTS:16.04.202109280",
+    "version": "16.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201908220",
+    "version": "16.04.201908220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201909030",
+    "version": "16.04.201909030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201909110",
+    "version": "16.04.201909110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201909180",
+    "version": "16.04.201909180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201910110",
+    "version": "16.04.201910110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201910310",
+    "version": "16.04.201910310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201911130",
+    "version": "16.04.201911130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201912110",
+    "version": "16.04.201912110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.201912170",
+    "version": "16.04.201912170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202001070",
+    "version": "16.04.202001070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202001290",
+    "version": "16.04.202001290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202002040",
+    "version": "16.04.202002040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202002120",
+    "version": "16.04.202002120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202002181",
+    "version": "16.04.202002181"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202003170",
+    "version": "16.04.202003170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202004010",
+    "version": "16.04.202004010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202004070",
+    "version": "16.04.202004070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202004290",
+    "version": "16.04.202004290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202005290",
+    "version": "16.04.202005290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202006100",
+    "version": "16.04.202006100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202007080",
+    "version": "16.04.202007080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202007161",
+    "version": "16.04.202007161"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202007290",
+    "version": "16.04.202007290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202008070",
+    "version": "16.04.202008070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202009040",
+    "version": "16.04.202009040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202009080",
+    "version": "16.04.202009080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202009220",
+    "version": "16.04.202009220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202010140",
+    "version": "16.04.202010140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202011120",
+    "version": "16.04.202011120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202012010",
+    "version": "16.04.202012010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202012030",
+    "version": "16.04.202012030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202012100",
+    "version": "16.04.202012100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202101120",
+    "version": "16.04.202101120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202101190",
+    "version": "16.04.202101190"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202102020",
+    "version": "16.04.202102020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202102260",
+    "version": "16.04.202102260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202103160",
+    "version": "16.04.202103160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202103291",
+    "version": "16.04.202103291"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202104140",
+    "version": "16.04.202104140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202104160",
+    "version": "16.04.202104160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202104290",
+    "version": "16.04.202104290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202106110",
+    "version": "16.04.202106110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16.04.0-LTS",
+    "urn": "Canonical:UbuntuServer:16.04.0-LTS:16.04.202109280",
+    "version": "16.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-daily-lts-gen2:16.04.202106230",
+    "version": "16.04.202106230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-daily-lts-gen2:16.04.202108040",
+    "version": "16.04.202108040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-daily-lts-gen2:16.04.202109280",
+    "version": "16.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201908220",
+    "version": "16.04.201908220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201909030",
+    "version": "16.04.201909030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201909110",
+    "version": "16.04.201909110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201909180",
+    "version": "16.04.201909180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201910110",
+    "version": "16.04.201910110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201910310",
+    "version": "16.04.201910310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201911130",
+    "version": "16.04.201911130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201912110",
+    "version": "16.04.201912110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.201912170",
+    "version": "16.04.201912170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202001070",
+    "version": "16.04.202001070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202001290",
+    "version": "16.04.202001290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202002040",
+    "version": "16.04.202002040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202002120",
+    "version": "16.04.202002120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202002181",
+    "version": "16.04.202002181"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202003170",
+    "version": "16.04.202003170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202004010",
+    "version": "16.04.202004010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202004070",
+    "version": "16.04.202004070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202004290",
+    "version": "16.04.202004290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202005290",
+    "version": "16.04.202005290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202006100",
+    "version": "16.04.202006100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202007080",
+    "version": "16.04.202007080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202007161",
+    "version": "16.04.202007161"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202007290",
+    "version": "16.04.202007290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202008070",
+    "version": "16.04.202008070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202009040",
+    "version": "16.04.202009040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202009080",
+    "version": "16.04.202009080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202009220",
+    "version": "16.04.202009220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202010140",
+    "version": "16.04.202010140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202011120",
+    "version": "16.04.202011120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202012010",
+    "version": "16.04.202012010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202012030",
+    "version": "16.04.202012030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202012100",
+    "version": "16.04.202012100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202101120",
+    "version": "16.04.202101120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202101190",
+    "version": "16.04.202101190"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202102020",
+    "version": "16.04.202102020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202102260",
+    "version": "16.04.202102260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202103160",
+    "version": "16.04.202103160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202103291",
+    "version": "16.04.202103291"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202104140",
+    "version": "16.04.202104140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202104160",
+    "version": "16.04.202104160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202104290",
+    "version": "16.04.202104290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202106110",
+    "version": "16.04.202106110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04-lts-gen2:16.04.202109280",
+    "version": "16.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201908220",
+    "version": "16.04.201908220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201909030",
+    "version": "16.04.201909030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201909110",
+    "version": "16.04.201909110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201909180",
+    "version": "16.04.201909180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201910110",
+    "version": "16.04.201910110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201910310",
+    "version": "16.04.201910310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201911130",
+    "version": "16.04.201911130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201912110",
+    "version": "16.04.201912110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.201912170",
+    "version": "16.04.201912170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202001070",
+    "version": "16.04.202001070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202001290",
+    "version": "16.04.202001290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202002040",
+    "version": "16.04.202002040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202002120",
+    "version": "16.04.202002120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202002181",
+    "version": "16.04.202002181"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202003170",
+    "version": "16.04.202003170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202004010",
+    "version": "16.04.202004010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202004070",
+    "version": "16.04.202004070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202004290",
+    "version": "16.04.202004290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202005290",
+    "version": "16.04.202005290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202006100",
+    "version": "16.04.202006100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202007080",
+    "version": "16.04.202007080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202007161",
+    "version": "16.04.202007161"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202007290",
+    "version": "16.04.202007290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202008070",
+    "version": "16.04.202008070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202009040",
+    "version": "16.04.202009040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202009080",
+    "version": "16.04.202009080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202009220",
+    "version": "16.04.202009220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202010140",
+    "version": "16.04.202010140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202011120",
+    "version": "16.04.202011120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202012010",
+    "version": "16.04.202012010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202012030",
+    "version": "16.04.202012030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202012100",
+    "version": "16.04.202012100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202101120",
+    "version": "16.04.202101120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202101190",
+    "version": "16.04.202101190"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202102020",
+    "version": "16.04.202102020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202102260",
+    "version": "16.04.202102260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202103160",
+    "version": "16.04.202103160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202103291",
+    "version": "16.04.202103291"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202104140",
+    "version": "16.04.202104140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202104160",
+    "version": "16.04.202104160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202104290",
+    "version": "16.04.202104290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202106110",
+    "version": "16.04.202106110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "16_04_0-lts-gen2",
+    "urn": "Canonical:UbuntuServer:16_04_0-lts-gen2:16.04.202109280",
+    "version": "16.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202211080",
+    "version": "18.04.202211080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202211170",
+    "version": "18.04.202211170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202211250",
+    "version": "18.04.202211250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202211280",
+    "version": "18.04.202211280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202212010",
+    "version": "18.04.202212010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202212050",
+    "version": "18.04.202212050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202212070",
+    "version": "18.04.202212070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202212090",
+    "version": "18.04.202212090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301100",
+    "version": "18.04.202301100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301120",
+    "version": "18.04.202301120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301130",
+    "version": "18.04.202301130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301240",
+    "version": "18.04.202301240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301250",
+    "version": "18.04.202301250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301260",
+    "version": "18.04.202301260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202301310",
+    "version": "18.04.202301310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302010",
+    "version": "18.04.202302010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302020",
+    "version": "18.04.202302020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302030",
+    "version": "18.04.202302030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302080",
+    "version": "18.04.202302080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302100",
+    "version": "18.04.202302100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302140",
+    "version": "18.04.202302140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302150",
+    "version": "18.04.202302150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302160",
+    "version": "18.04.202302160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202302270",
+    "version": "18.04.202302270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303010",
+    "version": "18.04.202303010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303020",
+    "version": "18.04.202303020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303030",
+    "version": "18.04.202303030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303060",
+    "version": "18.04.202303060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303070",
+    "version": "18.04.202303070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303080",
+    "version": "18.04.202303080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303170",
+    "version": "18.04.202303170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303200",
+    "version": "18.04.202303200"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303220",
+    "version": "18.04.202303220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303230",
+    "version": "18.04.202303230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202303280",
+    "version": "18.04.202303280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304040",
+    "version": "18.04.202304040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304050",
+    "version": "18.04.202304050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304110",
+    "version": "18.04.202304110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304120",
+    "version": "18.04.202304120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304130",
+    "version": "18.04.202304130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304140",
+    "version": "18.04.202304140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304180",
+    "version": "18.04.202304180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304240",
+    "version": "18.04.202304240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304250",
+    "version": "18.04.202304250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304260",
+    "version": "18.04.202304260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202304270",
+    "version": "18.04.202304270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305010",
+    "version": "18.04.202305010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305040",
+    "version": "18.04.202305040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305150",
+    "version": "18.04.202305150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305220",
+    "version": "18.04.202305220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305230",
+    "version": "18.04.202305230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305240",
+    "version": "18.04.202305240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305250",
+    "version": "18.04.202305250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305300",
+    "version": "18.04.202305300"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202305310",
+    "version": "18.04.202305310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202306010",
+    "version": "18.04.202306010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202306020",
+    "version": "18.04.202306020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202306050",
+    "version": "18.04.202306050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202306060",
+    "version": "18.04.202306060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-DAILY-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-DAILY-LTS:18.04.202306070",
+    "version": "18.04.202306070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202002040",
+    "version": "18.04.202002040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202002080",
+    "version": "18.04.202002080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202002180",
+    "version": "18.04.202002180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202003170",
+    "version": "18.04.202003170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202003250",
+    "version": "18.04.202003250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202004080",
+    "version": "18.04.202004080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202004290",
+    "version": "18.04.202004290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202005220",
+    "version": "18.04.202005220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202006101",
+    "version": "18.04.202006101"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202007081",
+    "version": "18.04.202007081"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202007160",
+    "version": "18.04.202007160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202007290",
+    "version": "18.04.202007290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202008120",
+    "version": "18.04.202008120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202008180",
+    "version": "18.04.202008180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202009010",
+    "version": "18.04.202009010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202009080",
+    "version": "18.04.202009080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202009220",
+    "version": "18.04.202009220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202010140",
+    "version": "18.04.202010140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202011120",
+    "version": "18.04.202011120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202011230",
+    "version": "18.04.202011230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202012010",
+    "version": "18.04.202012010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202012111",
+    "version": "18.04.202012111"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202101060",
+    "version": "18.04.202101060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202101120",
+    "version": "18.04.202101120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202101191",
+    "version": "18.04.202101191"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202101290",
+    "version": "18.04.202101290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202102240",
+    "version": "18.04.202102240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202103151",
+    "version": "18.04.202103151"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202103250",
+    "version": "18.04.202103250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202104150",
+    "version": "18.04.202104150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202105010",
+    "version": "18.04.202105010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202105080",
+    "version": "18.04.202105080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202105120",
+    "version": "18.04.202105120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202106040",
+    "version": "18.04.202106040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202106220",
+    "version": "18.04.202106220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202107200",
+    "version": "18.04.202107200"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202108170",
+    "version": "18.04.202108170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202108250",
+    "version": "18.04.202108250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202109180",
+    "version": "18.04.202109180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202109280",
+    "version": "18.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202110120",
+    "version": "18.04.202110120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202110250",
+    "version": "18.04.202110250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202111080",
+    "version": "18.04.202111080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202111220",
+    "version": "18.04.202111220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202111230",
+    "version": "18.04.202111230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202111250",
+    "version": "18.04.202111250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202111290",
+    "version": "18.04.202111290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202111300",
+    "version": "18.04.202111300"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202112020",
+    "version": "18.04.202112020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202201060",
+    "version": "18.04.202201060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202201180",
+    "version": "18.04.202201180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202202020",
+    "version": "18.04.202202020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202202130",
+    "version": "18.04.202202130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202203020",
+    "version": "18.04.202203020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202203080",
+    "version": "18.04.202203080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202203250",
+    "version": "18.04.202203250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202204010",
+    "version": "18.04.202204010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202204190",
+    "version": "18.04.202204190"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202205060",
+    "version": "18.04.202205060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202205100",
+    "version": "18.04.202205100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202205270",
+    "version": "18.04.202205270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202206090",
+    "version": "18.04.202206090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202206150",
+    "version": "18.04.202206150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202206230",
+    "version": "18.04.202206230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202207050",
+    "version": "18.04.202207050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202207080",
+    "version": "18.04.202207080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202207120",
+    "version": "18.04.202207120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202208100",
+    "version": "18.04.202208100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202209020",
+    "version": "18.04.202209020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202209160",
+    "version": "18.04.202209160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202209210",
+    "version": "18.04.202209210"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202210140",
+    "version": "18.04.202210140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202210180",
+    "version": "18.04.202210180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202212010",
+    "version": "18.04.202212010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202212070",
+    "version": "18.04.202212070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202212090",
+    "version": "18.04.202212090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202301100",
+    "version": "18.04.202301100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202301310",
+    "version": "18.04.202301310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202302100",
+    "version": "18.04.202302100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202303080",
+    "version": "18.04.202303080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202303220",
+    "version": "18.04.202303220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202303280",
+    "version": "18.04.202303280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202304180",
+    "version": "18.04.202304180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202304260",
+    "version": "18.04.202304260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202304270",
+    "version": "18.04.202304270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202305010",
+    "version": "18.04.202305010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202305220",
+    "version": "18.04.202305220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202306070",
+    "version": "18.04.202306070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18.04-LTS",
+    "urn": "Canonical:UbuntuServer:18.04-LTS:18.04.202401161",
+    "version": "18.04.202401161"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202211080",
+    "version": "18.04.202211080"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202211170",
+    "version": "18.04.202211170"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202211250",
+    "version": "18.04.202211250"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202211280",
+    "version": "18.04.202211280"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202212010",
+    "version": "18.04.202212010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202212050",
+    "version": "18.04.202212050"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202212070",
+    "version": "18.04.202212070"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202212090",
+    "version": "18.04.202212090"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301100",
+    "version": "18.04.202301100"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301120",
+    "version": "18.04.202301120"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301130",
+    "version": "18.04.202301130"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301240",
+    "version": "18.04.202301240"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301250",
+    "version": "18.04.202301250"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301260",
+    "version": "18.04.202301260"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202301310",
+    "version": "18.04.202301310"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302010",
+    "version": "18.04.202302010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302020",
+    "version": "18.04.202302020"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302030",
+    "version": "18.04.202302030"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302080",
+    "version": "18.04.202302080"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302100",
+    "version": "18.04.202302100"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302140",
+    "version": "18.04.202302140"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302150",
+    "version": "18.04.202302150"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302160",
+    "version": "18.04.202302160"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202302270",
+    "version": "18.04.202302270"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303010",
+    "version": "18.04.202303010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303020",
+    "version": "18.04.202303020"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303030",
+    "version": "18.04.202303030"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303060",
+    "version": "18.04.202303060"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303070",
+    "version": "18.04.202303070"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303080",
+    "version": "18.04.202303080"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303170",
+    "version": "18.04.202303170"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303200",
+    "version": "18.04.202303200"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303220",
+    "version": "18.04.202303220"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303230",
+    "version": "18.04.202303230"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202303280",
+    "version": "18.04.202303280"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304040",
+    "version": "18.04.202304040"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304050",
+    "version": "18.04.202304050"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304110",
+    "version": "18.04.202304110"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304120",
+    "version": "18.04.202304120"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304130",
+    "version": "18.04.202304130"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304140",
+    "version": "18.04.202304140"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304180",
+    "version": "18.04.202304180"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304240",
+    "version": "18.04.202304240"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304250",
+    "version": "18.04.202304250"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304260",
+    "version": "18.04.202304260"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202304270",
+    "version": "18.04.202304270"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305010",
+    "version": "18.04.202305010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305040",
+    "version": "18.04.202305040"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305150",
+    "version": "18.04.202305150"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305220",
+    "version": "18.04.202305220"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305230",
+    "version": "18.04.202305230"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305240",
+    "version": "18.04.202305240"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305250",
+    "version": "18.04.202305250"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305300",
+    "version": "18.04.202305300"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202305310",
+    "version": "18.04.202305310"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202306010",
+    "version": "18.04.202306010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202306020",
+    "version": "18.04.202306020"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202306050",
+    "version": "18.04.202306050"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202306060",
+    "version": "18.04.202306060"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-arm64:18.04.202306070",
+    "version": "18.04.202306070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202211080",
+    "version": "18.04.202211080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202211170",
+    "version": "18.04.202211170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202211250",
+    "version": "18.04.202211250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202211280",
+    "version": "18.04.202211280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202212010",
+    "version": "18.04.202212010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202212050",
+    "version": "18.04.202212050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202212070",
+    "version": "18.04.202212070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202212090",
+    "version": "18.04.202212090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301100",
+    "version": "18.04.202301100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301120",
+    "version": "18.04.202301120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301130",
+    "version": "18.04.202301130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301240",
+    "version": "18.04.202301240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301250",
+    "version": "18.04.202301250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301260",
+    "version": "18.04.202301260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202301310",
+    "version": "18.04.202301310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302010",
+    "version": "18.04.202302010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302020",
+    "version": "18.04.202302020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302030",
+    "version": "18.04.202302030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302080",
+    "version": "18.04.202302080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302100",
+    "version": "18.04.202302100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302140",
+    "version": "18.04.202302140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302150",
+    "version": "18.04.202302150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302160",
+    "version": "18.04.202302160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202302270",
+    "version": "18.04.202302270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303010",
+    "version": "18.04.202303010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303020",
+    "version": "18.04.202303020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303030",
+    "version": "18.04.202303030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303060",
+    "version": "18.04.202303060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303070",
+    "version": "18.04.202303070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303080",
+    "version": "18.04.202303080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303170",
+    "version": "18.04.202303170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303200",
+    "version": "18.04.202303200"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303220",
+    "version": "18.04.202303220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303230",
+    "version": "18.04.202303230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202303280",
+    "version": "18.04.202303280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304040",
+    "version": "18.04.202304040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304050",
+    "version": "18.04.202304050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304110",
+    "version": "18.04.202304110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304120",
+    "version": "18.04.202304120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304130",
+    "version": "18.04.202304130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304140",
+    "version": "18.04.202304140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304180",
+    "version": "18.04.202304180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304240",
+    "version": "18.04.202304240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304250",
+    "version": "18.04.202304250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304260",
+    "version": "18.04.202304260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202304270",
+    "version": "18.04.202304270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305010",
+    "version": "18.04.202305010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305040",
+    "version": "18.04.202305040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305150",
+    "version": "18.04.202305150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305220",
+    "version": "18.04.202305220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305230",
+    "version": "18.04.202305230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305240",
+    "version": "18.04.202305240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305250",
+    "version": "18.04.202305250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305300",
+    "version": "18.04.202305300"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202305310",
+    "version": "18.04.202305310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202306010",
+    "version": "18.04.202306010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202306020",
+    "version": "18.04.202306020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202306050",
+    "version": "18.04.202306050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202306060",
+    "version": "18.04.202306060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-daily-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-daily-lts-gen2:18.04.202306070",
+    "version": "18.04.202306070"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202206150",
+    "version": "18.04.202206150"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202206230",
+    "version": "18.04.202206230"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202207050",
+    "version": "18.04.202207050"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202207080",
+    "version": "18.04.202207080"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202207120",
+    "version": "18.04.202207120"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202208100",
+    "version": "18.04.202208100"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202209020",
+    "version": "18.04.202209020"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202209160",
+    "version": "18.04.202209160"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202209210",
+    "version": "18.04.202209210"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202210140",
+    "version": "18.04.202210140"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202210180",
+    "version": "18.04.202210180"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202212010",
+    "version": "18.04.202212010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202212050",
+    "version": "18.04.202212050"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202212090",
+    "version": "18.04.202212090"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202301100",
+    "version": "18.04.202301100"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202301310",
+    "version": "18.04.202301310"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202302100",
+    "version": "18.04.202302100"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202303080",
+    "version": "18.04.202303080"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202303220",
+    "version": "18.04.202303220"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202303280",
+    "version": "18.04.202303280"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202304180",
+    "version": "18.04.202304180"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202304260",
+    "version": "18.04.202304260"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202304270",
+    "version": "18.04.202304270"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202305010",
+    "version": "18.04.202305010"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202305220",
+    "version": "18.04.202305220"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202306070",
+    "version": "18.04.202306070"
+  },
+  {
+    "architecture": "Arm64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-arm64",
+    "urn": "Canonical:UbuntuServer:18_04-lts-arm64:18.04.202401161",
+    "version": "18.04.202401161"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202002040",
+    "version": "18.04.202002040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202002080",
+    "version": "18.04.202002080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202002180",
+    "version": "18.04.202002180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202003170",
+    "version": "18.04.202003170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202003250",
+    "version": "18.04.202003250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202004080",
+    "version": "18.04.202004080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202004290",
+    "version": "18.04.202004290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202005220",
+    "version": "18.04.202005220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202006101",
+    "version": "18.04.202006101"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202007081",
+    "version": "18.04.202007081"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202007160",
+    "version": "18.04.202007160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202007290",
+    "version": "18.04.202007290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202008120",
+    "version": "18.04.202008120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202008180",
+    "version": "18.04.202008180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202009010",
+    "version": "18.04.202009010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202009080",
+    "version": "18.04.202009080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202009220",
+    "version": "18.04.202009220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202010140",
+    "version": "18.04.202010140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202011120",
+    "version": "18.04.202011120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202011230",
+    "version": "18.04.202011230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202012010",
+    "version": "18.04.202012010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202012111",
+    "version": "18.04.202012111"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101060",
+    "version": "18.04.202101060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101120",
+    "version": "18.04.202101120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101191",
+    "version": "18.04.202101191"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202101290",
+    "version": "18.04.202101290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202102240",
+    "version": "18.04.202102240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202103151",
+    "version": "18.04.202103151"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202103250",
+    "version": "18.04.202103250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202104150",
+    "version": "18.04.202104150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202105010",
+    "version": "18.04.202105010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202105080",
+    "version": "18.04.202105080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202105120",
+    "version": "18.04.202105120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202106040",
+    "version": "18.04.202106040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202106220",
+    "version": "18.04.202106220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202107200",
+    "version": "18.04.202107200"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202108170",
+    "version": "18.04.202108170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202108250",
+    "version": "18.04.202108250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202109180",
+    "version": "18.04.202109180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202109280",
+    "version": "18.04.202109280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202110120",
+    "version": "18.04.202110120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202110250",
+    "version": "18.04.202110250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111080",
+    "version": "18.04.202111080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111220",
+    "version": "18.04.202111220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111230",
+    "version": "18.04.202111230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111250",
+    "version": "18.04.202111250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111290",
+    "version": "18.04.202111290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202111300",
+    "version": "18.04.202111300"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202112020",
+    "version": "18.04.202112020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202201060",
+    "version": "18.04.202201060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202201180",
+    "version": "18.04.202201180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202202020",
+    "version": "18.04.202202020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202202130",
+    "version": "18.04.202202130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202203020",
+    "version": "18.04.202203020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202203080",
+    "version": "18.04.202203080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202203250",
+    "version": "18.04.202203250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202204010",
+    "version": "18.04.202204010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202204190",
+    "version": "18.04.202204190"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202205060",
+    "version": "18.04.202205060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202205100",
+    "version": "18.04.202205100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202205270",
+    "version": "18.04.202205270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202206090",
+    "version": "18.04.202206090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202206150",
+    "version": "18.04.202206150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202206230",
+    "version": "18.04.202206230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202207050",
+    "version": "18.04.202207050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202207080",
+    "version": "18.04.202207080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202207120",
+    "version": "18.04.202207120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202208100",
+    "version": "18.04.202208100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202209020",
+    "version": "18.04.202209020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202209160",
+    "version": "18.04.202209160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202209210",
+    "version": "18.04.202209210"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202210140",
+    "version": "18.04.202210140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202210180",
+    "version": "18.04.202210180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202212010",
+    "version": "18.04.202212010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202212070",
+    "version": "18.04.202212070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202212090",
+    "version": "18.04.202212090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202301100",
+    "version": "18.04.202301100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202301310",
+    "version": "18.04.202301310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202302100",
+    "version": "18.04.202302100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202303080",
+    "version": "18.04.202303080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202303220",
+    "version": "18.04.202303220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202303280",
+    "version": "18.04.202303280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202304180",
+    "version": "18.04.202304180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202304260",
+    "version": "18.04.202304260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202304270",
+    "version": "18.04.202304270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202305010",
+    "version": "18.04.202305010"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202305220",
+    "version": "18.04.202305220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202306070",
+    "version": "18.04.202306070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "18_04-lts-gen2",
+    "urn": "Canonical:UbuntuServer:18_04-lts-gen2:18.04.202401161",
+    "version": "18.04.202401161"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202006110",
+    "version": "19.10.202006110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202007020",
+    "version": "19.10.202007020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202007030",
+    "version": "19.10.202007030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202007070",
+    "version": "19.10.202007070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202007080",
+    "version": "19.10.202007080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202007090",
+    "version": "19.10.202007090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19.10-DAILY",
+    "urn": "Canonical:UbuntuServer:19.10-DAILY:19.10.202007100",
+    "version": "19.10.202007100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909170",
+    "version": "19.04.201909170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909180",
+    "version": "19.04.201909180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909200",
+    "version": "19.04.201909200"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909210",
+    "version": "19.04.201909210"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909240",
+    "version": "19.04.201909240"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909250",
+    "version": "19.04.201909250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201909270",
+    "version": "19.04.201909270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910030",
+    "version": "19.04.201910030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910042",
+    "version": "19.04.201910042"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910080",
+    "version": "19.04.201910080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910090",
+    "version": "19.04.201910090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910100",
+    "version": "19.04.201910100"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910110",
+    "version": "19.04.201910110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910120",
+    "version": "19.04.201910120"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910150",
+    "version": "19.04.201910150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910160",
+    "version": "19.04.201910160"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910200",
+    "version": "19.04.201910200"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910220",
+    "version": "19.04.201910220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910230",
+    "version": "19.04.201910230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910250",
+    "version": "19.04.201910250"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910290",
+    "version": "19.04.201910290"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910300",
+    "version": "19.04.201910300"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201910310",
+    "version": "19.04.201910310"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911050",
+    "version": "19.04.201911050"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911060",
+    "version": "19.04.201911060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911070",
+    "version": "19.04.201911070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911080",
+    "version": "19.04.201911080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911130",
+    "version": "19.04.201911130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911131",
+    "version": "19.04.201911131"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911140",
+    "version": "19.04.201911140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911210",
+    "version": "19.04.201911210"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911220",
+    "version": "19.04.201911220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911260",
+    "version": "19.04.201911260"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911270",
+    "version": "19.04.201911270"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201911280",
+    "version": "19.04.201911280"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201912040",
+    "version": "19.04.201912040"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201912130",
+    "version": "19.04.201912130"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201912170",
+    "version": "19.04.201912170"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.201912180",
+    "version": "19.04.201912180"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001060",
+    "version": "19.04.202001060"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001080",
+    "version": "19.04.202001080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001090",
+    "version": "19.04.202001090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001140",
+    "version": "19.04.202001140"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001150",
+    "version": "19.04.202001150"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001210",
+    "version": "19.04.202001210"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001220",
+    "version": "19.04.202001220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-daily-gen2:19.04.202001230",
+    "version": "19.04.202001230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-gen2:19.04.201908230",
+    "version": "19.04.201908230"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-gen2:19.04.201910030",
+    "version": "19.04.201910030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-gen2:19.04.201911080",
+    "version": "19.04.201911080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-gen2:19.04.201911131",
+    "version": "19.04.201911131"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_04-gen2",
+    "urn": "Canonical:UbuntuServer:19_04-gen2:19.04.202001220",
+    "version": "19.04.202001220"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202006110",
+    "version": "19.10.202006110"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202007020",
+    "version": "19.10.202007020"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202007030",
+    "version": "19.10.202007030"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202007070",
+    "version": "19.10.202007070"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202007080",
+    "version": "19.10.202007080"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202007090",
+    "version": "19.10.202007090"
+  },
+  {
+    "architecture": "x64",
+    "offer": "UbuntuServer",
+    "publisher": "Canonical",
+    "sku": "19_10-daily-gen2",
+    "urn": "Canonical:UbuntuServer:19_10-daily-gen2:19.10.202007100",
+    "version": "19.10.202007100"
+  }
+]
